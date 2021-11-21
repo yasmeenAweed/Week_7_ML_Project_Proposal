@@ -3,13 +3,14 @@
 with your group suggest and research one Use case in Fintech, locate some data in this space, explore it a bit, and choose a model you'd like to work with.
 
 **Area of FinTech**:  
-(eg. Lending and credit decisions, fraud detection, Anti-money laundering, etc). 
+Lending (Peer -to-Peer Lending)
 
 **Dataset researched and located**:  
-(Recommended data sources: Kaggle.com, datasetsearch.research.google.com, ask your instructor for more) 
+ data sources: Kaggle.com, Bondora Peer to Peer Lending Loan Datae
+ (https://www.kaggle.com/sid321axn/bondora-peer-to-peer-lending-loan-data?select=LoanData_Bondora.csv)
 
 **ML Use Case**:  
-What are trying to accomplish?
+Customer classfication according to their defualt risk.
 
 **ML model selected**:  
 (k-means, support-vector machine, random forest, etc)
@@ -17,11 +18,12 @@ What are trying to accomplish?
 **Reason**: 
 (what about this model suggests it's a great fit for the task above?)
 
-**Group Number # or Name**: 
+**Group Number # or Name**: Group 1
 
 **Group Members**: 
-1. .
-2. .
-3. .
-4. .
-5. . 
+1. . Lama 
+2. . Yasmeen
+3. . Bashayer
+4. . Khadija
+5. . Duaa
+6. . Abdullah

@@ -7,13 +7,13 @@ Lending (Peer -to-Peer Lending)
 
 **Dataset researched and located**:  
  data sources: Kaggle.com, Bondora Peer to Peer Lending Loan Datae
- (https://www.kaggle.com/sid321axn/bondora-peer-to-peer-lending-loan-data?select=LoanData_Bondora.csv)
+ (https://www.kaggle.com/skihikingkevin/online-p2p-lending)
 
 **ML Use Case**:  
 Customer classfication according to their defualt risk.
 
 **ML model selected**:  
-(k-means, support-vector machine, random forest, etc)
+random forest
 
 **Reason**: 
 (what about this model suggests it's a great fit for the task above?)

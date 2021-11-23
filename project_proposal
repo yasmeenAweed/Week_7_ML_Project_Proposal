@@ -13,10 +13,11 @@ Lending (Peer -to-Peer Lending)
 Customer classfication according to their defualt risk.
 
 **ML model selected**:  
-random forest
+Support Vector Machine
 
 **Reason**: 
 (what about this model suggests it's a great fit for the task above?)
+because the model is good in a classifacation of 2 classes and gives accurate results in unbalanced data classfication  
 
 **Group Number # or Name**: Group 1
 
